@@ -40,3 +40,17 @@ Feature: Title of your feature
       | name  | value | status  |
       | name1 |     5 | success |
       | name2 |     7 | Fail    |
+      
+      https://learning.postman.com/docs/sending-requests/authorization/
+      
+      https://www.softwaretestinghelp.com/api-testing-with-karate-framework/
+      
+      https://techndeck.com/testing-web-services-with-karate/#GetEndpointRequest
+      
+      https://nordicapis.com/9-best-practices-for-rest-api-testing/
+      
+      https://qavalidation.com/2020/09/demo-sites-to-practice-api-automation-testing.html/
+      
+      https://www.youtube.com/watch?v=qrRv5Kxf4J8
+      
+      https://developers.onelogin.com/quickstart/using-postman
